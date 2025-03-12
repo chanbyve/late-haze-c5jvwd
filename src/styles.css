@@ -1,0 +1,11 @@
+:root {
+  --app-font: "Quicksand", "Lato", sans-serif;
+  --neutral-color: rgb(255, 255, 255);
+}
+
+.App {
+  font-family: var(--app-font);
+  text-align: center;
+  background: var(--neutral-color);
+  user-select: none;
+}
